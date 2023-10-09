@@ -66,7 +66,7 @@ alert(`${data.fullname}. my mob no is ${data.phone}`)
   class="form-label">Example textarea</label>
   <textarea class="form-control" 
   id="exampleFormControlTextarea1" 
-  rows="4"
+  rows="6"
   name = "msg"
   value={data.msg}
   onChange={InputEvent}
