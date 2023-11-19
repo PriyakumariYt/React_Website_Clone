@@ -7,7 +7,7 @@ const About = () => {
       <CommanData
         names="Grow Your Career With"
         name2 = "I Am a Full Stack Developer"
-        imgSrc="https://www.vippng.com/png/full/33-331616_many-programmers-know-at-least-2-or-3.png"
+        imgSrc="https://cdni.iconscout.com/illustration/premium/thumb/react-native-programmer-7464458-6109661.png"
         visit = "/service"
         btnName = "About Us"
       />
